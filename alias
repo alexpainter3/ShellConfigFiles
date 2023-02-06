@@ -1,0 +1,3 @@
+alias ll='ls -alG'
+alias v='vim'
+alias gp='grep -rni --color=auto'
